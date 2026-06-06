@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\-1-\bin\Debug\Практическая работа №1 КИС.exe.config
+C:\Users\user\source\repos\-1-\bin\Debug\Практическая работа №1 КИС.exe
+C:\Users\user\source\repos\-1-\bin\Debug\Практическая работа №1 КИС.pdb
+C:\Users\user\source\repos\-1-\obj\Debug\Практическая работа №1 КИС.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\-1-\obj\Debug\Практическая_работа__1_КИС.Form1.resources
+C:\Users\user\source\repos\-1-\obj\Debug\Практическая_работа__1_КИС.Properties.Resources.resources
+C:\Users\user\source\repos\-1-\obj\Debug\Практическая работа №1 КИС.csproj.GenerateResource.cache
+C:\Users\user\source\repos\-1-\obj\Debug\Практическая работа №1 КИС.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\-1-\obj\Debug\Практическая работа №1 КИС.exe
+C:\Users\user\source\repos\-1-\obj\Debug\Практическая работа №1 КИС.pdb
+D:\Users\1213-7\Source\Repos\-1-\bin\Debug\Практическая работа №1 КИС.exe.config
+D:\Users\1213-7\Source\Repos\-1-\bin\Debug\Практическая работа №1 КИС.exe
+D:\Users\1213-7\Source\Repos\-1-\bin\Debug\Практическая работа №1 КИС.pdb
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая работа №1 КИС.csproj.AssemblyReference.cache
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая работа №1 КИС.exe.config
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая_работа__1_КИС.Form1.resources
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая_работа__1_КИС.Properties.Resources.resources
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая работа №1 КИС.csproj.GenerateResource.cache
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая работа №1 КИС.csproj.CoreCompileInputs.cache
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая работа №1 КИС.exe
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая работа №1 КИС.pdb
+D:\Users\1213-7\Source\Repos\-1-\obj\Debug\Практическая_работа__1_КИС.Справка.resources
+C:\Users\user\source\repos\1\bin\Debug\Практическая работа №1 КИС.exe.config
+C:\Users\user\source\repos\1\bin\Debug\Практическая работа №1 КИС.exe
+C:\Users\user\source\repos\1\bin\Debug\Практическая работа №1 КИС.pdb
+C:\Users\user\source\repos\1\obj\Debug\Практическая работа №1 КИС.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1\obj\Debug\Практическая_работа__1_КИС.Form1.resources
+C:\Users\user\source\repos\1\obj\Debug\Практическая_работа__1_КИС.Справка.resources
+C:\Users\user\source\repos\1\obj\Debug\Практическая_работа__1_КИС.Properties.Resources.resources
+C:\Users\user\source\repos\1\obj\Debug\Практическая работа №1 КИС.csproj.GenerateResource.cache
+C:\Users\user\source\repos\1\obj\Debug\Практическая работа №1 КИС.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1\obj\Debug\Практическая работа №1 КИС.exe
+C:\Users\user\source\repos\1\obj\Debug\Практическая работа №1 КИС.pdb
