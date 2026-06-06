@@ -16,8 +16,10 @@ namespace Практическая_работа__1_КИС
         int lifeExpectancy;
         int kids;
         string name;
-        public Cat(string name) {
-            try 
+        string faith;
+        public Cat(string name)
+        {
+            try
             {
                 type = "Кошка обыкновенная";
                 movementType = "ходьба";
@@ -25,6 +27,8 @@ namespace Практическая_работа__1_КИС
                 lifeExpectancy = 15;
                 kids = 6;
                 this.name = name;
+                faith = "...Какое звездное племя?";
+                TurnIntoWarriors();
                 Out();
             }
             catch (Exception ex)
@@ -40,7 +44,7 @@ namespace Практическая_работа__1_КИС
                 MessageBox.Show("Подождите, это же кошки! Взошла полная луна и они случайно обрели разум и стали котами-воителями. " +
                     "Они охраняеют границы и собирают траву для целителей. Ой, подождите, что это там за кот на вершине холма..?",
                     "Звезденое племя пришло!", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                kids = 4;
+                faith = "Сильнее всего на свете";
             }
             else MessageBox.Show("Луна взошла на небо... Но кошки не обратили внимание. Может, это было что-то важное? Ладно, проехали...", 
                 "Звездное племя..? Нет, просто луна", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -54,10 +58,11 @@ namespace Практическая_работа__1_КИС
                 $"\nСреда обитания {livingEnvironment}" +
                 $"\nСредняя продолжительность жизни: {lifeExpectancy}" +
                 $"\nКоличесвто потомства за выводок: {kids}" +
+                $"\nВера в звездное племя: {faith}" +
                 $"\nИ звать его {name}",
                 "Вы создали кощечку, ура!", MessageBoxButtons.OK, MessageBoxIcon.Information
                 );
-            TurnIntoWarriors();
+            
             Event();
         }
         public void Event()
